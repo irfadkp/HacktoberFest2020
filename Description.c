@@ -5,6 +5,7 @@ void main()
 {
   clrscr();
   printf("WELCOME TO HACKTOBERFEST 2020!!!!!");
+  printf(Hello Everyone)
   printf("So let's get started!");
   printf("I guess everybody is a noobie here");
 }
